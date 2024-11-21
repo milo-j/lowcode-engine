@@ -1,14 +1,16 @@
 {
   "lerna": "4.0.0",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "npmClient": "yarn",
   "packages": [
     "packages/*"
   ],
   "command": {
-  "link": {
-    "npmClientArgs": ["--no-package-lock"]
-  },
+    "link": {
+      "npmClientArgs": [
+        "--no-package-lock"
+      ]
+    },
     "version": {
       "allowBranch": [
         "master",
