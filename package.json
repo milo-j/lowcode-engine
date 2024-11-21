@@ -44,22 +44,22 @@
     }
   },
   "devDependencies": {
+    "lerna": "^8.1.9",
     "del": "^6.1.1",
     "execa": "^5.1.1",
-    "f2elint": "^2.0.1",
+    "f2elint": "^4.9.0",
     "gulp": "^4.0.2",
     "husky": "^7.0.4",
-    "lerna": "^4.0.0",
     "typescript": "4.6.2",
     "yarn": "^1.22.17",
     "rimraf": "^3.0.2",
     "@types/react-router": "5.1.18",
     "@alilc/build-plugin-lce": "^0.0.5",
-    "babel-jest": "^26.5.2",
+    "babel-jest": "^29.7.0",
     "@alilc/lowcode-test-mate": "^1.0.1"
   },
   "engines": {
-    "node": ">=14.17.0 <18"
+    "node": ">=14.17.0 <20"
   },
   "tnpm": {
     "mode": "yarn",
