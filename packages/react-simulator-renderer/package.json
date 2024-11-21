@@ -1,6 +1,6 @@
 {
-  "name": "@alilc/lowcode-react-simulator-renderer",
-  "version": "1.3.5",
+  "name": "@milo/lowcode-react-simulator-renderer",
+  "version": "1.3.6",
   "description": "react simulator renderer for alibaba lowcode designer",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -43,7 +43,7 @@
     "type": "http",
     "url": "https://github.com/alibaba/lowcode-engine/tree/main/packages/react-simulator-renderer"
   },
-  "gitHead": "6ed27143f28ac6248b53fb7f0be8287f965518c1",
+  "gitHead": "3172021b03dea327c23d9aec57a24453bb81d1ac",
   "bugs": "https://github.com/alibaba/lowcode-engine/issues",
   "homepage": "https://github.com/alibaba/lowcode-engine/#readme"
 }
