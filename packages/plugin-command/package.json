@@ -1,6 +1,6 @@
 {
   "name": "@alilc/lowcode-plugin-command",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "description": "> TODO: description",
   "author": "liujuping <liujup@foxmail.com>",
   "homepage": "https://github.com/alibaba/lowcode-engine#readme",
@@ -30,10 +30,11 @@
     "url": "https://github.com/alibaba/lowcode-engine/issues"
   },
   "dependencies": {
-    "@alilc/lowcode-types": "1.3.3",
-    "@alilc/lowcode-utils": "1.3.3"
+    "@alilc/lowcode-types": "1.3.4",
+    "@alilc/lowcode-utils": "1.3.4"
   },
   "devDependencies": {
     "@alib/build-scripts": "^0.1.18"
-  }
+  },
+  "gitHead": "6ed27143f28ac6248b53fb7f0be8287f965518c1"
 }
