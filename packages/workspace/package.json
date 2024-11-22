@@ -1,6 +1,6 @@
 {
   "name": "@milo/lowcode-workspace",
-  "version": "1.3.6",
+  "version": "1.3.7",
   "description": "Shell Layer for AliLowCodeEngine",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -49,7 +49,7 @@
     "type": "http",
     "url": "https://github.com/alibaba/lowcode-engine/tree/main/packages/workspace"
   },
-  "gitHead": "3172021b03dea327c23d9aec57a24453bb81d1ac",
+  "gitHead": "3585660059813b60325ed6c3235bb1f94ff83f59",
   "bugs": "https://github.com/alibaba/lowcode-engine/issues",
   "homepage": "https://github.com/alibaba/lowcode-engine/#readme"
 }
